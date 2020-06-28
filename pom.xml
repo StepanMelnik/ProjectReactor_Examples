@@ -34,9 +34,9 @@
     </developers>
 
     <scm>
-        <connection>scm:git:git@github.com:StepanMelnik/JMeter_Xml2Sql.git</connection>
-        <developerConnection>scm:git:git@github.com:StepanMelnik/JMeter_Xml2Sql.git</developerConnection>
-        <url>https://github.com/StepanMelnik/JMeter</url>
+        <connection>scm:git:git@github.com:StepanMelnik/ProjectReactor_Examples.git</connection>
+        <developerConnection>scm:git:git@github.com:StepanMelnik/ProjectReactor_Examples.git</developerConnection>
+        <url>https://github.com/StepanMelnik/ProjectReactor_Examples</url>
     </scm>
 
     <!-- Local Sonatype Nexus Repository -->
